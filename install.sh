@@ -18,5 +18,5 @@ php artisan config:cache
 php artisan route:cache
 
 echo "=================Add Vhosts==================="
-sudo sh -c 'echo "127.0.1.1  projek.test" >> /etc/hosts'
+sudo sh -c 'echo "127.0.0.1  projek.test" >> /etc/hosts'
 echo "=================Done==================="
